@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <h1><title="Fighting game community">FGC</title></h1>
+        <style>
+            .myDiv {
+              border: 50px outset red;
+              background-color: lightblue;
+              text-align: center;
+            }
+        </style>
+    </head>
+
+    <body>
+        <div class="myDiv"></div>
+        <h2><ul>
+            <!-- Link do dustloop, o site mais utilizado para verificação de frames de jogos de luta, 
+                    e link para a frame data do Axl_Low o personagem escolhido para o site  "-->
+                <li> <a
+                        href="https://www.dustloop.com/wiki/index.php?title=GGST">
+                        Link para frame data</a> </li>
+                <li> <a
+                        href="https://www.dustloop.com/wiki/index.php?title=GGST/Axl_Low">
+                        Link para frame data de Axl_Low </a> </li>
+                <li> <a
+                        href="https://www.dustloop.com/wiki/index.php?title=GGST"><img
+                            src="https://www.dustloop.com/wiki/images/thumb/b/b6/GGST_Axl_Low_Icon.png/85px-GGST_Axl_Low_Icon.png"
+                            alt="Axl Low" style="width:42px;height:42px;"></a>
+                </li>
+            </ul></h2>
+        <h3>Tabela de matchup</h3>
+        <div class="myDiv">
+            <table style="width:20%">
+                <thead>
+                    <tr>
+                        <th>Perde</th>
+                        <th>Empata</th>
+                        <th>Ganha</th>
+                    </tr>
+                </thead>
+                <tr>
+                    <!-- Essa é uma tabela feita com os link do dustloop, o site mais utilizado para verificação de frames de jogos de luta, 
+                    nela esta uma lista curta das situações de vantagem em combate para o personagem Axl, os conciderados "MU 60/40, 50/50 ou 40/60  "-->
+                    <td><a
+                            href="https://www.dustloop.com/wiki/index.php?title=GGST/Chipp_Zanuff"><img
+                                src="https://www.dustloop.com/wiki/images/thumb/9/94/GGST_Chipp_Zanuff_Icon.png/85px-GGST_Chipp_Zanuff_Icon.png"
+                                alt="Chipp_Zanuff"
+                                style="width:42px;height:42px;"></a>
+                    </td>
+                    <td><a
+                            href="https://www.dustloop.com/wiki/index.php?title=GGST/Axl_Low"><img
+                                src="https://www.dustloop.com/wiki/images/thumb/b/b6/GGST_Axl_Low_Icon.png/85px-GGST_Axl_Low_Icon.png"
+                                alt="Axl Low" style="width:42px;height:42px;"></a></td>
+                    <td><a
+                            href="https://www.dustloop.com/wiki/index.php?title=GGST/Nagoriyuki"><img
+                                src="https://www.dustloop.com/wiki/images/thumb/2/2c/GGST_Nagoriyuki_Icon.png/85px-GGST_Nagoriyuki_Icon.png"
+                                alt="Nagoriyuki"
+                                style="width:42px;height:42px;"></a></td>
+                </tr>
+                <tr>
+                    <td><a
+                            href="https://www.dustloop.com/wiki/index.php?title=GGST/Millia_Rage"><img
+                                src="https://www.dustloop.com/wiki/images/thumb/d/d8/GGST_Millia_Rage_Icon.png/85px-GGST_Millia_Rage_Icon.png"
+                                alt="Millia_Rage"
+                                style="width:42px;height:42px;"></a></td>
+                    <td><a
+                            href="https://www.dustloop.com/wiki/index.php?title=GGST/I-No"><img
+                                src="https://www.dustloop.com/wiki/images/thumb/9/94/GGST_I-No_Icon.png/85px-GGST_I-No_Icon.png"
+                                alt="I-No" style="width:42px;height:42px;"></a></td>
+                    <td><a
+                            href="https://www.dustloop.com/wiki/index.php?title=GGST/Zato-1"><img
+                                src="https://www.dustloop.com/wiki/images/thumb/5/51/GGST_Zato-1_Icon.png/85px-GGST_Zato-1_Icon.png"
+                                alt="Zato-1" style="width:42px;height:42px;"></a></td>
+                </tr>
+                <tr>
+                    <td><a
+                            href="https://www.dustloop.com/wiki/index.php?title=GGST/Baiken"><img
+                                src="https://www.dustloop.com/wiki/images/thumb/1/1c/GGST_Baiken_Icon.png/85px-GGST_Baiken_Icon.png"
+                                alt="Baiken" style="width:42px;height:42px;"></a></td>
+                    <td><a
+                            href="https://www.dustloop.com/wiki/index.php?title=GGST/Potemkin"><img
+                                src="https://www.dustloop.com/wiki/images/thumb/f/f5/GGST_Potemkin_Icon.png/85px-GGST_Potemkin_Icon.png"
+                                alt="Potemkin" style="width:42px;height:42px;"></a></td>
+                    <td><a
+                            href="https://www.dustloop.com/wiki/index.php?title=GGST/Bridget"><img
+                                src="https://www.dustloop.com/wiki/images/thumb/b/b5/GGST_Bridget_Icon.png/85px-GGST_Bridget_Icon.png"
+                                alt="Bridget" style="width:42px;height:42px;"></a></td>
+                </tr>
+            </table>
+        </div>
+
+    </body>
+
+</html>
