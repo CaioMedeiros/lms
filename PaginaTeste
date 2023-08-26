@@ -6,14 +6,15 @@
         <style>
             .myDiv {
               border: 50px outset red;
-              background-color: lightblue;
+              background-color: Black;
               text-align: center;
             }
         </style>
     </head>
 
     <body>
-        <div class="myDiv"></div>
+        <article>
+        <header class="myDiv">
         <h2><ul>
             <!-- Link do dustloop, o site mais utilizado para verificação de frames de jogos de luta, 
                     e link para a frame data do Axl_Low o personagem escolhido para o site  "-->
@@ -28,9 +29,12 @@
                             src="https://www.dustloop.com/wiki/images/thumb/b/b6/GGST_Axl_Low_Icon.png/85px-GGST_Axl_Low_Icon.png"
                             alt="Axl Low" style="width:42px;height:42px;"></a>
                 </li>
+                
             </ul></h2>
+            </header>
+            <footer class="myDiv">
         <h3>Tabela de matchup</h3>
-        <div class="myDiv">
+      
             <table style="width:20%">
                 <thead>
                     <tr>
@@ -88,8 +92,9 @@
                                 alt="Bridget" style="width:42px;height:42px;"></a></td>
                 </tr>
             </table>
-        </div>
-
+        
+        </footer>
+		</article>
     </body>
 
 </html>
